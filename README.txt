@@ -1,4 +1,4 @@
-Two-Step Sankey 
+Two-Step-Sankey 
 by Dr Michal Marek Hoppe, 2024
 version 1.0.0
 
